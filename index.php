@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>--- TOMTEK UA LLC ---</title>
+	<title>--- Candle Market ---</title>
 </head>
 
 <body>
